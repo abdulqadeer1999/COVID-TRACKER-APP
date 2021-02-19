@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin: 2px auto;
+}
+body{
+    background-image: url('https://image.shutterstock.com/image-photo/coronavirus-impact-global-economy-stock-600w-1689094279.jpg'); 
+    background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+   opacity: 0.ppx;
+   height: 105vh;
+   }
+
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  font-weight: bolder;
+}
