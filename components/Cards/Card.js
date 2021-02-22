@@ -7,7 +7,7 @@ import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import './Cards.css'
 
-const useStyles = makeStyles((theme:Theme) =>
+const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     root: {
      // display: 'flex',
